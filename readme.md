@@ -13,11 +13,15 @@ npm install git-deployer -g
 
 Usage
 -----
+Like this:
+```shell
+git-deploy -r git@github.com:username/project.git -d ./dist
+```
 
-Please shell this to learn
+Please shell this to learn more detail:
 ```shell
 git-deploy --help
 ```
 
 
-zainTpl has been designed to work in THE LATEST NODE ENVIRONMENT.
+zainTpl has been designed to work in" THE LATEST NODE ENVIRONMENT.
