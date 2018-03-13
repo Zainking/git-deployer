@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Zainking",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.15.0",
@@ -15,5 +15,9 @@
   },
   "bin": {
     "git-deploy": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zainking/git-deployer.git"
   }
 }
