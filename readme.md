@@ -24,4 +24,4 @@ git-deploy --help
 ```
 
 
-zainTpl has been designed to work in" THE LATEST NODE ENVIRONMENT.
+git-deployer has been designed to work in" THE LATEST NODE ENVIRONMENT.
